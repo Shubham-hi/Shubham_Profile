@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-hi&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-hi" /> </p>
 
-- 🔭 I’m currently working on **Hurray Project**
+- 🔭 I’m currently working on **Personal Project**
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript,ReactJs,MUI**
 
