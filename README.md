@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Current project**
 
-- 📫 How to reach me **bansal2001du@gmail.com**
+- 📫 How to reach me **bansal.sbhm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
